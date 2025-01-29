@@ -11,3 +11,9 @@ Para subir un commit a su repositorio.
 2. git status
 3. git commit -m 'Segundo commit'
 4. git push -u origin main
+
+para utilizar git clone y git pull
+1*- git clone <URL-del-repositorio>
+
+para usa git pull
+1- git pull 
